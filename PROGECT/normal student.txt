@@ -1,0 +1,1 @@
+1 Advanced_Physics BA216 2 Communication_and_Presntaion_Skills NC133 3 Problem_Solving CCS1302  4 Discreet_Structure CCS1001 5 Calculs_I EBA1203 6 Enterperuniship_Skills CNC1401 7 Acadmic_Writing UNR1407

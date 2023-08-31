@@ -1,0 +1,1 @@
+1 Physics BA113 2 Calculus_1 BA101 3 Introduction_to_computers CS111  4 Information_system IS171 5 ESP1 LH135 6 Fundamental_of_business NC172 7 Creativity_and_innovation BA003
